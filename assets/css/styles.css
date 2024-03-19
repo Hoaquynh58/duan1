@@ -128,6 +128,7 @@ table {
   font-size: var(--small-font-size);
 }
 
+
 .grid {
   display: grid;
   gap: 1.5rem;
@@ -1588,6 +1589,10 @@ table {
   border: 1px solid var(--border-color-alt);
   padding: 2rem;
   border-radius: 0.5rem;
+}
+
+.register .grid{
+  text-align: start;
 }
 
 .accounts__container {
