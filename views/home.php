@@ -57,7 +57,7 @@
                   <span class="product__category">Clothing</span>
                   <a href="details.html">
                     <h3 class="product__title">Colorful Pattern Shirts</h3>
-                  </a>
+                  </a>z
                   
                   <div class="product__price flex">
                     <span class="new__price">$238.85</span>
